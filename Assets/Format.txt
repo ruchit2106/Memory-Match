@@ -1,0 +1,12 @@
+Easy:- 	5X5
+	4 diff images (Air Flame Mineral Storm)
+	6 copies of each image and 1 joker(Key)
+
+Medium:-6X6
+	2 Joker and 2 Clock
+	4 copies of each image
+	8 diff images (Artificial Nocturnal Occult)
+Hard:-8X8
+	2 Joker and 4 Clock
+	14 diff images
+	4 copies	
